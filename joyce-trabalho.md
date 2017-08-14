@@ -1,7 +1,7 @@
 //Joyce Marianne Mendes Vieira
 
 db.filmes.insert({
-	"titulo" : "10 coisas que eu odeio em você",
+	"titulo" : "10 coisas que eu odeio em vocÃª",
 	"duracao" : 97 ,
 	"diretores" : "Gil Junger",
 	"atores" : ["Heath Ledger", "Julia Stiles", "Joseph Gordon-Levitt"],
@@ -14,7 +14,7 @@ db.filmes.insert({
 
 
 db.filmes.insert({
-	"titulo" : "A Múmia",
+	"titulo" : "A MÃºmia",
 	"duracao" : 125,
 	"diretores" : "Nick Cassavetes",
 	"atores" : ["Brendan Fraser","Rachel Weisz","John Hannah"],
@@ -36,7 +36,7 @@ db.filmes.insert({
 })
 
 db.filmes.insert({
-	"titulo" : "Star Wars:Episódio I - A Ameaça Fantasma",
+	"titulo" : "Star Wars:EpisÃ³dio I - A AmeaÃ§a Fantasma",
 	"duracao" : 136,
 	"diretores" : "George Lucas",
 	"atores" : ["Ewan McGregor","Liam Neeson","Natalie Portman"],
@@ -71,7 +71,7 @@ db.filmes.insert({
 db.filmes.insert({
 	"titulo" : " A bruxa de Blair",
 	"duracao" : 81 ,
-	"diretores" : ["Daniel Myrick","Eduardo Sánchez"],
+	"diretores" : ["Daniel Myrick","Eduardo SÃ¡nchez"],
 	"atores" : ["Heather Donahue","Michael C. Williams","Joshua Leonard"],
 	"data_estreia" : new Date(1999,10,1),
 	"generos" : ["Horror","Mystery"],
@@ -80,8 +80,8 @@ db.filmes.insert({
 })
 
 db.filmes.insert({
-	"titulo" : " Segundas Intenções",
-	"duracao" :  ,
+	"titulo" : " Segundas IntenÃ§Ãµes",
+	"duracao" : 97 ,
 	"diretores" : "Roger Kumble",
 	"atores" : ["Sarah Michelle Gellar","Ryan Phillippe","Reese Witherspoon"],
 	"data_estreia" : new Date(1999,6,11),
@@ -138,7 +138,7 @@ db.filmes.insert({
 
 
 db.filmes.insert({
-	"titulo" : "À Espera de um Milagre",
+	"titulo" : "Ã€ Espera de um Milagre",
 	"duracao" : 189 ,
 	"diretores" : "Frank Darabont",
 	"atores" : ["Tom Hanks","Michael Clarke Duncan","David Morse "],
@@ -155,7 +155,7 @@ db.filmes.insert({
 
 
 db.filmes.insert({
-	"titulo" : "Enigma do Espaço",
+	"titulo" : "Enigma do EspaÃ§o",
 	"duracao" : 109 ,
 	"diretores" : "Rand Ravich",
 	"atores" : ["Charlize Theron","Johnny Depp","Joe Morton"],
@@ -166,7 +166,7 @@ db.filmes.insert({
 })
 
 db.filmes.insert({
-	"titulo" : "A Lenda do Cavaleiro sem cabeça",
+	"titulo" : "A Lenda do Cavaleiro sem cabeÃ§a",
 	"duracao" : 105 ,
 	"diretores" : "Tim Burton",
 	"atores" : ["Johnny Depp","Christina Ricci", "Miranda Richardson "],
@@ -210,7 +210,7 @@ db.filmes.insert({
 })
 
 db.filmes.insert({
-	"titulo" : "O Paizão",
+	"titulo" : "O PaizÃ£o",
 	"duracao" : 93 ,
 	"diretores" : "Dennis Dugan",
 	"atores" : [" Adam Sandler", "Joey Lauren Adams","Jon Stewart"],
